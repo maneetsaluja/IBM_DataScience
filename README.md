@@ -1,4 +1,4 @@
-# ibm_toolsfords
+# IBM Data Science - Coursera
 
 It contains the Jupyter notebook of some excercises related to markdown.
 
